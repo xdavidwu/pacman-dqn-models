@@ -1,2 +1,2 @@
-model_checkpoint_path: "model-smallClassic-7900"
-all_model_checkpoint_paths: "model-smallClassic-7900"
+model_checkpoint_path: "model-smallClassic-10000"
+all_model_checkpoint_paths: "model-smallClassic-10000"
